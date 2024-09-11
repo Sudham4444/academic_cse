@@ -46,6 +46,9 @@ This repository contains a collection of PDFs representing my work, experiments,
 ## How to Use:
 Each subject area contains the core PDF documents related to experiments, reports, or assignments. The documents can be referenced for educational purposes, and they provide insights into the practical aspects of each field of study.
 
+## Troubleshooting:
+If you're unable to view a PDF or it appears blank, it’s recommended to **download** the PDF for proper viewing.
+
 ## License:
 This repository is licensed under the MIT License. Feel free to use or reference any materials with proper attribution.
 
